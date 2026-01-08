@@ -1,0 +1,7 @@
+{
+  "name": "MoodSync India",
+  "description": "A text-based mood recommendation system that analyzes sentiment to provide localized Indian recommendations for food, shopping, music, and books.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
